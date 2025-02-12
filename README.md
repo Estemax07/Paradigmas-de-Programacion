@@ -1,4 +1,4 @@
-#Nicolas sanchez Calderon
+#Nicolas sanchez Calderon.
 
 def suc(numN):
     return numN + 1
